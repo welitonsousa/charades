@@ -15,7 +15,7 @@ Bem-vindo ao Charades App! Este é um aplicativo de adivinhação de palavras qu
    - **Errou**: Incline o celular para baixo.
 
 <p align="center">
-  <img width="400" src="./assets/images/demo.gif">
+  <img width="90%" src="./assets/images/demo.gif">
 </p>
 <p align="center">
     <a href="https://github.com/welitonsousa/charades/raw/main/assets/Charades.apk" download>
